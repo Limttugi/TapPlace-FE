@@ -3,6 +3,11 @@
 
 컨택리스 가맹점 확인
 
+##
+
+NextJS로 재 개발 중 입니다.
+레포 링크 : https://github.com/TapPlace/TapPlace-FE-Nextjs
+
 ## 배포링크
 
 링크 : https://tapplace.co.kr
